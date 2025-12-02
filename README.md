@@ -39,7 +39,7 @@ pip install aiohttp
 ## Run
 
 ```bash
-python openai_status_watcher.py
+python status_tracker.py
 ```
 
 The script remains running and prints updates automatically as the status feed changes.
